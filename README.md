@@ -1,4 +1,8 @@
-# aptoide-client
+# Aptoide-Client
+
+# The Best Downloader 
+
 For translation contributions please go to http://translate.aptoide.com
-Thank you.
 The Aptoide Team
+
+Thank you.
